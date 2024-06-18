@@ -2,7 +2,7 @@
 
 A CMPTooltip is custom tooltip library for Compose Multiplatform for Android and iOS.
 
-![image]()
+![CMPTooltips](https://github.com/ChainTechNetwork/CMP_tooltip/assets/143475887/1108b4b7-d540-4edb-945a-fd6feb7f1a9d)
 
 ## Installation
 
@@ -145,10 +145,10 @@ IconButton(
 ```
 
 ## Screenshot
+![CMPTooltip_screenshot](https://github.com/ChainTechNetwork/CMP_tooltip/assets/143475887/8f4378fd-31fc-400c-8b01-3506c98bbd0b)
 
-![image]()
 
-- For Demo [Checkout This Class]()
+- For Demo [Checkout This Class](https://github.com/ChainTechNetwork/CMP_tooltip/blob/main/composeApp/src/commonMain/kotlin/network/chaintech/cmptooltipdemo/App.kt)
 
 - [Medium Article](https://medium.com/@manishdabhi1223_25861/15b68aa04ff4) for detailed explaination.
 
